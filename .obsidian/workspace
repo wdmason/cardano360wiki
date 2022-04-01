@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardano 360 March 2022 - transcript.md",
+            "file": "transcripts/Cardano 360 March 2022 - transcript.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardano 360 March 2022 - transcript.md",
+            "file": "transcripts/Cardano 360 March 2022 - transcript.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardano 360 March 2022 - transcript.md",
+                "file": "transcripts/Cardano 360 March 2022 - transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardano 360 March 2022 - transcript.md",
+                "file": "transcripts/Cardano 360 March 2022 - transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cardano 360 March 2022 - transcript.md"
+                "file": "transcripts/Cardano 360 March 2022 - transcript.md"
               }
             }
           }
@@ -125,8 +125,8 @@
   },
   "active": "c6f8d969824f5a25",
   "lastOpenFiles": [
-    "Cardano 360 March 2022 - transcript.md",
-    "Cardano 360 March 2022/Cardano 360 March 2022.md",
+    "transcripts/Cardano 360 March 2022 - transcript.md",
+    "Cardano360/Cardano 360 March 2022.md",
     "Untitled.md"
   ]
 }
