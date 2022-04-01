@@ -4,12 +4,18 @@
   "switcher",
   "graph",
   "backlink",
+  "outgoing-link",
   "page-preview",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "markdown-importer",
+  "zk-prefixer",
+  "outline",
   "word-count",
+  "slides",
   "open-with-default-app",
+  "workspaces",
   "file-recovery"
 ]
