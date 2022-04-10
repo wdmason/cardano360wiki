@@ -1,1 +1,1 @@
-# cardano360graph - initial commit
+# cardano360wiki
